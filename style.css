@@ -1,0 +1,64 @@
+/*   Github Challenge
+* Following challenge was put forth to me by Shippable for their screening. So I thought to give my best.
+* Thanks for the challenge as I got the exposure to github api.
+*/
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+/* *************Layout*************** */
+.main{
+  padding-top: 100px;
+}
+
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+
+hr.star-primary {
+    border-color: #8A6D3B;
+}
+
+hr.star-primary:after {
+    color: #8A6D3B;
+    background-color: #fff;
+}
+
+/* *************Font*************** */
+body{
+  font-family: 'Roboto', sans-serif; ;
+}
+.error-block{
+  font-size: 16px;
+  font-weight: bold;
+  color: #E62117;
+}
+h4{
+  font-size: 14px!important;
+}
+.counter{
+  margin-bottom: 5px;
+  font-size: 46px;
+  font-weight: 900;
+  display: block;
+}
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 26px!important;
+    font-weight: 500!important;
+    color: inherit;
+}
