@@ -11,7 +11,7 @@ git-open-issue is designed using php & helps in maintaing api of the same.
 
 ## Motivation
 
-Thanks to Shippables for the challenge and also thanks to [stackoverflow]:http://stackoverflow.com/questions/1975461/how-to-get-file-get-contents-work-with-https to help me when i was stuck whenever & wherever.
+Thanks to Shippables for the challenge and also thanks to http://stackoverflow.com/questions/1975461/how-to-get-file-get-contents-work-with-https to help me when i was stuck whenever & wherever.
 
 ## Installation
 
@@ -42,5 +42,4 @@ I have made it on own so i certainly don't think this would be appropriate right
 
 ## License
 
-This source file is subject to version 3.01 of the PHP license that is available through the world-wide-web at the following URI:
-[http://www.php.net/license/3_01.txt]:http://www.php.net/license/3_01.txt.  If you did not receive a copy of the PHP License and are unable to obtain it through the web, please send a note to license@php.net so we can mail you a copy immediately.
+This source file is subject to version 3.01 of the PHP license that is available through the world-wide-web at the following URI: http://www.php.net/license/3_01.txt.  If you did not receive a copy of the PHP License and are unable to obtain it through the web, please send a note to license@php.net so we can mail you a copy immediately.
