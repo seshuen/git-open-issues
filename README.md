@@ -40,6 +40,9 @@ Its simple to use and simple construct.
 
 I have made it on own so i certainly don't think this would be appropriate right now. But all contributors are thanked in advance.
 
+## Future Scope
+In future the same api can be transformed into a full fledged github api with added functionality that shall help in managing this api for advanced user with more than 10 github repository handled. Also the same api can be built into an application which will serve as dashboard for devlopers who can manage their code at one interface and also deploy from same api.But all this is possible if given the time and liked minded contributors coming together else the above said shall be just words.
+
 ## License
 
 This source file is subject to version 3.01 of the PHP license that is available through the world-wide-web at the following URI: http://www.php.net/license/3_01.txt.  If you did not receive a copy of the PHP License and are unable to obtain it through the web, please send a note to license@php.net so we can mail you a copy immediately.
